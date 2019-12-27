@@ -16,7 +16,7 @@ export const products = [
   },
   {
     name: 'Phone 2019',
-    price: 999,
+    price: 0,
     description: 'New Phone 2019 year'
   }
 ];
